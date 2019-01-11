@@ -1,4 +1,4 @@
-# FlexBox-practice
+# Flexbox-Notes
 | Property | Use-case | Attributes |
 |--------|----------|------------|
 | justify-content | Horizontal alignment |flex-start, flex-end, center, space-between(equal space between items), space-around(equal space around items)|
